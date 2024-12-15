@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Raviteja-544/Raviteja-portfolio",
+  "homepage": "https://raviteja-544.github.io/Raviteja-portfolio",
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +23,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -48,7 +48,9 @@
     ]
   },
   "devDependencies": {
+    "gh": "^2.8.9",
     "gh-pages": "^6.1.1",
+    "pages": "^0.0.16",
     "tailwindcss": "^3.4.4"
   }
 }
