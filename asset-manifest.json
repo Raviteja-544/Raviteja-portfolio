@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Raviteja-portfolio/static/css/main.6dd73552.css",
-    "main.js": "/Raviteja-portfolio/static/js/main.dd9ce8bd.js",
-    "static/js/592.78477b24.chunk.js": "/Raviteja-portfolio/static/js/592.78477b24.chunk.js",
+    "main.js": "/Raviteja-portfolio/static/js/main.0bf2d29d.js",
+    "static/js/592.cf1f156e.chunk.js": "/Raviteja-portfolio/static/js/592.cf1f156e.chunk.js",
     "static/media/Hotelbooking.png": "/Raviteja-portfolio/static/media/Hotelbooking.7c421da0288a03ebb796.png",
     "static/media/seating.jpg": "/Raviteja-portfolio/static/media/seating.4480cfc3295e838baec6.jpg",
     "index.html": "/Raviteja-portfolio/index.html",
     "main.6dd73552.css.map": "/Raviteja-portfolio/static/css/main.6dd73552.css.map",
-    "main.dd9ce8bd.js.map": "/Raviteja-portfolio/static/js/main.dd9ce8bd.js.map",
-    "592.78477b24.chunk.js.map": "/Raviteja-portfolio/static/js/592.78477b24.chunk.js.map"
+    "main.0bf2d29d.js.map": "/Raviteja-portfolio/static/js/main.0bf2d29d.js.map",
+    "592.cf1f156e.chunk.js.map": "/Raviteja-portfolio/static/js/592.cf1f156e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dd73552.css",
-    "static/js/main.dd9ce8bd.js"
+    "static/js/main.0bf2d29d.js"
   ]
 }
